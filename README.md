@@ -1,5 +1,5 @@
-##Simple Dice Thrower
-#HTML page
+## Simple Dice Thrower
+# HTML page
 There are 3 types of dices in this program:
   - 6 faces dice
   - 20 faces dice
